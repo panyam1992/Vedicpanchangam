@@ -1,0 +1,11 @@
+{
+  "name": "my-panchangam-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test:run": "node run-test.js"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0"
+  }
+}
